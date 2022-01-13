@@ -1,0 +1,170 @@
+Time:0
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:1
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:2
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:3
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:4
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:5
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:6
+Wainting clients: (1,22,3)(2,30,2)(3,7,4)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:7
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: (3,7,4)	
+Queue 1: closed
+
+Time:8
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: (3,7,4)	
+Queue 1: closed
+
+Time:9
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: (3,7,3)	
+Queue 1: closed
+
+Time:10
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: (3,7,2)	
+Queue 1: closed
+
+Time:11
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:12
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:13
+Wainting clients: (1,22,3)(2,30,2)(4,14,4)
+Queue 0: closed
+Queue 1: closed
+
+Time:14
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: (4,14,4)	
+Queue 1: closed
+
+Time:15
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: (4,14,3)	
+Queue 1: closed
+
+Time:16
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: (4,14,2)	
+Queue 1: closed
+
+Time:17
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: (4,14,1)	
+Queue 1: closed
+
+Time:18
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:19
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:20
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:21
+Wainting clients: (1,22,3)(2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:22
+Wainting clients: (2,30,2)
+Queue 0: (1,22,3)	
+Queue 1: closed
+
+Time:23
+Wainting clients: (2,30,2)
+Queue 0: (1,22,2)	
+Queue 1: closed
+
+Time:24
+Wainting clients: (2,30,2)
+Queue 0: (1,22,2)	
+Queue 1: closed
+
+Time:25
+Wainting clients: (2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:26
+Wainting clients: (2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:27
+Wainting clients: (2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:28
+Wainting clients: (2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:29
+Wainting clients: (2,30,2)
+Queue 0: closed
+Queue 1: closed
+
+Time:30
+Wainting clients: 
+Queue 0: (2,30,2)	
+Queue 1: closed
+
+Time:31
+Wainting clients: 
+Queue 0: (2,30,1)	
+Queue 1: closed
+
+Time:32
+Waiting clients:
+Queue 0: closed
+Queue 1: closed
+
+END OF SIMULATION
+
+Average Waiting Time: 18.25
+Average Service Time: 3.25
+Peak Hour: 1
